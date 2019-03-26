@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PandingIntent</string>
+    <string name="calculate">Calculate</string>
 </resources>
